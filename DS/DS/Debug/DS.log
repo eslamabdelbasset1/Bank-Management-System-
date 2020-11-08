@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (DS.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Accounts.cpp
+C:\Users\Eslam Abdelbasset\source\repos\DS\DS\Accounts.cpp(129,7): warning C4101: 'tr_date': unreferenced local variable
+  Admin.cpp
+C:\Users\Eslam Abdelbasset\source\repos\DS\DS\Admin.cpp(150,7): warning C4101: 'buff': unreferenced local variable
+C:\Users\Eslam Abdelbasset\source\repos\DS\DS\Admin.cpp(243,12): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\Eslam Abdelbasset\source\repos\DS\DS\Admin.cpp(374,7): warning C4101: 'ch': unreferenced local variable
+C:\Users\Eslam Abdelbasset\source\repos\DS\DS\Admin.cpp(421,10): warning C4129: 'E': unrecognized character escape sequence
+  Employee.cpp
+C:\Users\Eslam Abdelbasset\source\repos\DS\DS\Employee.cpp(137,7): warning C4101: 'buff': unreferenced local variable
+C:\Users\Eslam Abdelbasset\source\repos\DS\DS\Employee.cpp(195,7): warning C4101: 'buff': unreferenced local variable
+C:\Users\Eslam Abdelbasset\source\repos\DS\DS\Employee.cpp(194,6): warning C4101: 'ch': unreferenced local variable
+C:\Users\Eslam Abdelbasset\source\repos\DS\DS\Employee.cpp(427,7): warning C4101: 'ch': unreferenced local variable
+  Generating Code...
+  DS.vcxproj -> C:\Users\Eslam Abdelbasset\source\repos\DS\Debug\bankManagementSystem.exe
